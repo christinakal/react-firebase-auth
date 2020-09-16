@@ -1,0 +1,30 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 900px;
+}
+
+.email {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2%;
+}
+
+.email-label {
+  margin-bottom: 2%;
+}
+
+.password {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2%;
+}
+
+.password-label {
+  margin-bottom: 2%;
+}
+
+button {
+  cursor: pointer;
+}
