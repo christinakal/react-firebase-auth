@@ -8,4 +8,11 @@
 
 .main-image {
   max-width: 100%;
+  align-self: flex-start;
+  text-align: left;
+}
+ 
+.login-page{
+  display: block;
+  padding-top:20vh;
 }
